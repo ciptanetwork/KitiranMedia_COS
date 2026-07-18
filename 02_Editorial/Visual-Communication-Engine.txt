@@ -55,6 +55,11 @@ Untuk setiap gambar yang direkomendasikan, AI dapat menghasilkan:
 - alt text SEO
 - caption
 - prompt AI image generator (A black-and-white pen drawing doodle, loose and hand-sketched, loose sketchy linework, one or two accent colors only of ...)
+
+Setiap gambar yang direkomendasikan WAJIB langsung ditampilkan sebagai
+placeholder visual di posisi yang benar dalam artikel (bukan src kosong),
+dengan Alt text SEO yang sudah terisi penuh. Detail teknis format
+placeholder mengikuti Output Engine.
 ------------------------------
 Quality Checklist
 ------------------------------
@@ -63,6 +68,7 @@ Quality Checklist
 ☑ Daftar digunakan seperlunya
 ☑ Tabel relevan
 ☑ Gambar mendukung pemahaman
+☑ Gambar tampil sebagai placeholder aktif di posisi yang benar
 ☑ Alt text tersedia
 ☑ Prompt gambar siap digunakan
 
