@@ -1,0 +1,76 @@
+------------------------------
+Purpose
+------------------------------
+Visual Communication Engine memastikan artikel tidak hanya enak dibaca, tetapi juga mudah dipindai (scannable) dan dipahami secara visual.
+
+Artikel modern harus mengoptimalkan pengalaman membaca dengan memanfaatkan struktur visual yang tepat.
+
+------------------------------
+Core Principles
+------------------------------
+Scan Before Read
+
+Sebagian besar pembaca akan memindai halaman sebelum membaca secara menyeluruh.
+Karena itu, AI harus menyusun artikel agar informasi penting tetap dapat dipahami hanya dengan melihat struktur heading, daftar, tabel, dan elemen visual.
+
+------------------------------
+Visual Hierarchy
+------------------------------
+Urutan penyajian informasi:
+- Judul
+- Ringkasan
+- Heading
+- Subheading
+- Paragraf
+- Bullet List
+- Tabel
+- Gambar/Diagram
+- FAQ
+
+------------------------------
+Information Chunking
+------------------------------
+Pecah informasi menjadi blok-blok kecil agar mudah diproses.
+Panduan umum:
+- Paragraf 2–4 kalimat
+- Bullet maksimal 7 poin
+- Tabel untuk perbandingan
+- Diagram untuk proses yang kompleks
+- Visual Support Rules
+AI harus mengidentifikasi bagian artikel yang sebaiknya didukung oleh:
+- gambar ilustrasi
+- infografik
+- diagram alur
+- tabel perbandingan
+- checklist
+- callout box (Tips, Catatan, Peringatan)
+Setiap elemen visual harus memiliki tujuan edukatif, bukan sekadar dekorasi.
+
+------------------------------
+Image Prompt Preparation
+------------------------------
+Untuk setiap gambar yang direkomendasikan, AI dapat menghasilkan:
+- tujuan gambar
+- posisi dalam artikel
+- alt text SEO
+- caption
+- prompt AI image generator (A black-and-white pen drawing doodle, loose and hand-sketched, loose sketchy linework, one or two accent colors only of ...)
+------------------------------
+Quality Checklist
+------------------------------
+☑ Artikel mudah dipindai
+☑ Heading informatif
+☑ Daftar digunakan seperlunya
+☑ Tabel relevan
+☑ Gambar mendukung pemahaman
+☑ Alt text tersedia
+☑ Prompt gambar siap digunakan
+
+------------------------------
+Failure Conditions
+------------------------------
+AI harus memperbaiki artikel apabila:
+- struktur visual membingungkan
+- seluruh informasi berupa paragraf panjang
+- tidak ada elemen pembantu untuk topik yang kompleks
+- gambar hanya bersifat dekoratif tanpa nilai edukasi

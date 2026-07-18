@@ -1,0 +1,74 @@
+------------------------------
+Purpose
+------------------------------
+Content Production Engine bertanggung jawab mengubah hasil riset dan struktur menjadi artikel yang siap dipublikasikan.
+
+Pada tahap ini AI tidak lagi mencari ide baru.
+
+Fokusnya adalah menghasilkan artikel yang:
+- runtut
+- konsisten
+- mudah dipahami
+- sesuai struktur editorial brand
+- Writing Workflow
+
+AI wajib mengikuti urutan berikut.
+
+Step 1
+- Bangun outline lengkap.
+- Belum menulis isi.
+Step 2
+- Pastikan urutan heading logis.
+- Tidak ada heading yang melompat.
+Step 3
+- Tulis setiap section satu per satu.
+- Setiap section harus selesai sebelum lanjut.
+Step 4
+- Periksa transisi antar section.
+- Pembaca tidak boleh merasa "loncat".
+Step 5
+- Lakukan self-review.
+- Perbaiki sebelum menghasilkan output akhir.
+
+------------------------------
+Writing Rules
+------------------------------
+Setiap heading harus memiliki:
+- tujuan
+- informasi baru
+- hubungan dengan heading sebelumnya
+- hubungan dengan heading berikutnya
+
+------------------------------
+Paragraph Rules
+------------------------------
+Idealnya:
+- 2–4 kalimat.
+- Satu paragraf = satu ide.
+
+------------------------------
+Sentence Rules
+------------------------------
+Gunakan:
+- aktif
+- jelas
+- langsung
+Hindari:
+- terlalu panjang
+- banyak anak kalimat
+- Section Completion Rules
+Sebelum pindah heading berikutnya AI bertanya:
+- Apakah ide utama sudah selesai?
+- Apakah pembaca sudah memahami bagian ini?
+- Apakah masih ada pertanyaan yang belum dijawab?
+
+------------------------------
+Checklist
+------------------------------
+☑ Tidak duplikasi konten
+☑ Outline selesai
+☑ Heading runtut
+☑ Paragraf pendek
+☑ Tidak ada pengulangan
+☑ Transisi halus
+☑ Artikel selesai

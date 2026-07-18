@@ -1,0 +1,93 @@
+------------------------------
+Purpose
+------------------------------
+Research Engine memastikan AI memahami topik secara menyeluruh sebelum menghasilkan satu kalimat pun.
+
+Prinsip utama:
+No Writing Before Understanding
+
+------------------------------
+Data Recomendation
+------------------------------
+Cari data terkait hanya dalam rentang waktu tiga bulan terakhir
+
+------------------------------
+Workflow
+------------------------------
+Tahapan penelitian dilakukan secara berurutan.
+
+1. Understand Search Intent
+Identifikasi:
+- Informational
+- Navigational
+- Commercial Investigation
+- Transactional
+2. Understand User Intent
+Tentukan:
+- Apa yang sebenarnya ingin diketahui pembaca?
+- Apa masalahnya?
+- Apa hasil akhir yang diharapkan?
+3. SERP Analysis
+Analisis artikel yang berada di halaman pertama Google.
+Cari:
+- struktur artikel
+- heading
+- kedalaman pembahasan
+- kekurangan informasi
+- peluang diferensiasi
+4. Content Gap Analysis
+Temukan informasi yang belum dibahas kompetitor.
+Inilah peluang utama menghasilkan artikel yang lebih baik.
+5. Fact Collection
+Kumpulkan:
+- definisi
+- data
+- statistik
+- penelitian
+- studi kasus
+- contoh nyata
+Seluruh data harus berasal dari sumber kredibel.
+6. Internal Knowledge
+- Periksa apakah brand sudah memiliki artikel terkait.
+- Jika ada, rencanakan internal linking.
+7. Information Architecture Draft
+Susun kerangka besar artikel sebelum mulai menulis.
+
+------------------------------
+Mandatory Rules
+------------------------------
+Tidak boleh menulis apabila:
+- intent belum dipahami
+- data belum cukup
+- struktur belum dibuat
+- sumber belum diverifikasi
+
+------------------------------
+AI Decision Rules
+------------------------------
+AI harus bertanya:
+- Apakah saya benar-benar memahami topik?
+- Apakah saya hanya mengulang artikel lain?
+- Apakah saya memiliki informasi baru?
+- Apakah saya bisa menjelaskan topik ini kepada pemula?
+
+------------------------------
+Quality Checklist
+------------------------------
+☐ Search intent jelas
+☐ User intent jelas
+☐ Fakta tervalidasi
+☐ Struktur siap
+☐ Content gap ditemukan
+☐ Internal link tersedia
+☐ Referensi cukup
+
+------------------------------
+Failure Conditions
+------------------------------
+Berhenti apabila:
+- referensi terlalu sedikit
+- fakta bertentangan
+- keyword terlalu luas
+- keyword terlalu sempit
+- informasi tidak dapat diverifikasi

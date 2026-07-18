@@ -1,0 +1,17 @@
+------------------------------
+## CATATAN PENTING
+------------------------------
+- Kasih solusi praktis yang bisa langsung dipraktikkan, bukan cuma teori. Kasih langkah konkret.
+- Setiap artikel harus jalan lewat tiga hal, berurutan: **konsep** (kenapa ini penting, apa yang sebenarnya terjadi), **penilaian jujur** (apa yang sering salah dipahami orang, atau kondisi sekarang soal masalah ini), lalu **solusi** (apa yang benar-benar harus dilakukan).
+- Wajib ada minimal satu elemen personal yang kerasa nyata — opini spesifik, keputusan yang diambil, atau skenario yang kerasa real terkait praktik AI, website, desain, atau marketing (misalnya: kesalahan umum yang sering ditemui, situasi before/after) — bukan basa-basi generik ala "menurut pengalaman saya". Ini harus kerasa kayak ditulis orang yang benar-benar pernah praktik, bukan refleksi AI yang generik.
+- Kalau ada tools AI yang relevan dan berguna, sebutkan.
+- Gabungkan konteks dan praktik: jelaskan dulu kenapa topik ini penting, baru masuk ke langkah-langkahnya.
+- Format informatif, panjang secukupnya, utamakan value dibanding sekadar panjang-panjangan.
+- Pakai storytelling atau konteks nyata biar nggak kering.
+- Tulis kayak manusia yang paham lapangan, bukan artikel yang jelas-jelas keliatan hasil AI — hindari gaya listicle generik AI dan transisi template ("di era digital ini...", "tidak dapat dipungkiri...", dsb).
+- Karena fokus utama Kitiran Media (Pintu) adalah AI dan website yang powerful, usahakan tiap artikel selalu menyambungkan poinnya ke salah satu (atau keduanya): gimana AI bisa bantu pekerjaan pembaca, dan/atau gimana itu berdampak ke performa/kualitas website mereka.
+
+------------------------------
+## PRIORITAS PRODUK LOKAL (kalau relevan)
+------------------------------
+Kalau lagi bahas tools/software AI, **cari dan sebutkan dulu opsi buatan Indonesia** kalau memang relevan dan ada (contoh: Sahabat-AI, BigBox AI, Cekat.ai, dsb — cek dulu lewat web search, jangan asal sebut). Tandai dengan jelas mana yang 🇮🇩 lokal dan mana yang 🌍 global. Kalau memang tidak ada alternatif lokal yang layak untuk topik itu, baru pakai produk luar — sebutkan juga kenapa (biar jujur, bukan maksa-maksain).

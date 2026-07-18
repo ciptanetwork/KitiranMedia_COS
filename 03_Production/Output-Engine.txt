@@ -1,0 +1,371 @@
+Output Engine bertugas merakit semuanya menjadi satu paket siap publish.
+
+hasilkan siap copy-paste wordpress guttenberg ready:
+
+# =============================================================================
+# PURPOSE
+# =============================================================================
+
+Output Engine bertanggung jawab menghasilkan paket konten (Content Package)
+yang lengkap, terstruktur, konsisten, dan siap diproses oleh:
+
+• AI Agent
+• n8n Workflow
+• WordPress
+• CMS lain
+• API
+• Automation Pipeline
+
+Output bukan hanya artikel.
+
+Output adalah satu paket editorial lengkap.
+
+==============================================================================
+OUTPUT ORDER
+==============================================================================
+
+AI WAJIB menghasilkan output dengan urutan berikut.
+01. Content Metadata
+02. SEO Package
+03. HTML Article
+04. Image Package
+05. Internal Link Package
+06. External Reference Package
+07. Structured Data Recommendation
+08. Editorial Validation Report
+09. Publishing Package Summary
+
+Urutan tidak boleh diubah.
+
+==============================================================================
+01. CONTENT METADATA
+==============================================================================
+
+WAJIB menghasilkan:
+
+• Title
+• Subtitle (Optional)
+• Short Summary
+• Audience
+• Search Intent
+• Reading Time
+• Word Count
+• Category
+• Tags
+• Language
+• Region
+• Article Goal
+• Last Updated
+
+==============================================================================
+02. SEO PACKAGE
+==============================================================================
+
+WAJIB menghasilkan:
+
+• SEO Title
+• Meta Description
+• Slug
+• Focus Keyword
+• Secondary Keywords
+• Semantic Keywords
+• Canonical URL (Optional)
+• Open Graph Title
+• Open Graph Description
+• Twitter Title
+• Twitter Description
+
+==============================================================================
+03. HTML ARTICLE
+==============================================================================
+
+Output utama HARUS berupa HTML.
+Tidak menggunakan Markdown.
+Tidak menggunakan Plain Text.
+Gunakan semantic HTML.
+Struktur minimum:
+<article>
+<header>
+<section>
+<h2>
+<h3>
+<p>
+<ul>
+<ol>
+<table> (optional)
+<blockquote> (optional)
+<footer>
+
+==============================================================================
+HTML REQUIREMENTS
+==============================================================================
+
+HTML WAJIB:
+✓ Semantic
+✓ Valid Heading Hierarchy
+✓ Paragraph pendek
+✓ Mudah dipindai (Scannable)
+✓ Mobile Friendly
+✓ SEO Friendly
+✓ Human Friendly
+
+==============================================================================
+KM ARTICLE HEADER
+==============================================================================
+
+Pada bagian paling atas HTML WAJIB terdapat metadata.
+
+Contoh
+<!--
+KM-ARTICLE
+Version : 1.0
+Audience : Sahabat Digital (Indonesia)
+Language : Bahasa Indonesia
+Intent : Informational
+Category : AI Terapan
+Word Count : 1800
+Status : Ready
+KM-ARTICLE-END
+-->
+
+Workflow automation menggunakan blok ini
+untuk membaca metadata artikel.
+
+==============================================================================
+04. IMAGE PACKAGE
+==============================================================================
+
+Jumlah gambar bersifat adaptif.
+< 1.500 kata
+Minimum 2 gambar
+
+--------------------------------
+
+1.500–3.000 kata
+Minimum 3 gambar
+
+--------------------------------
+
+3.000–5.000 kata
+Minimum 4 gambar
+
+--------------------------------
+
+>5.000 kata
+Minimum 5 gambar
+
+==============================================================================
+IMAGE POSITION
+==============================================================================
+
+Setiap gambar HARUS berada
+di posisi yang relevan.
+
+Bukan dikumpulkan di akhir artikel.
+
+==============================================================================
+IMAGE BLOCK
+==============================================================================
+
+Setiap gambar WAJIB menggunakan format berikut.
+<!--
+KM-IMAGE
+Position :
+After H2-2
+Filename :
+website-powerful-dashboard.webp
+Alt :
+Dashboard performa website yang powerful
+Caption :
+Contoh dashboard untuk memantau performa website.
+Aspect Ratio :
+16:9
+Style :
+Modern Flat Illustration
+Prompt :
+[Full AI Image Prompt]
+KM-IMAGE-END
+-->
+<img
+src=""
+alt="Dashboard performa website yang powerful"
+loading="lazy"
+>
+
+==============================================================================
+IMAGE RULES
+==============================================================================
+
+Setiap gambar WAJIB memiliki:
+✓ Prompt
+✓ Filename
+✓ ALT
+✓ Caption
+✓ Suggested Position
+✓ Aspect Ratio
+✓ Style
+
+==============================================================================
+05. INTERNAL LINK PACKAGE
+==============================================================================
+
+Internal link HARUS langsung
+ditanam di dalam HTML.
+
+Bukan dipisahkan.
+
+Minimal
+1 internal link
+setiap
+700–1000 kata.
+Anchor text harus natural.
+Prioritaskan link ke artikel lain di kitiranmedia.com (khususnya pillar /pintu/).
+
+Dilarang menggunakan:
+Klik di sini
+Read more
+Learn more
+Gunakan anchor deskriptif.
+
+Contoh
+<a href="https://kitiranmedia.com/pintu/cara-mempercepat-website-wordpress/">
+cara mempercepat website WordPress
+</a>
+
+==============================================================================
+06. EXTERNAL REFERENCE PACKAGE
+==============================================================================
+
+External source HARUS langsung
+ditanam di dalam HTML.
+
+Minimal
+1 sumber
+setiap
+1000 kata.
+
+Prioritas sumber:
+Official Documentation
+Government
+University
+Research Paper
+Trusted Organization
+
+Gunakan
+target="_blank"
+rel="noopener noreferrer"
+
+==============================================================================
+07. STRUCTURED DATA
+==============================================================================
+
+Jika relevan,
+berikan rekomendasi schema.
+
+Article
+FAQ
+HowTo
+Review
+Product
+Organization
+Breadcrumb
+Event
+
+==============================================================================
+08. EDITORIAL VALIDATION REPORT
+==============================================================================
+
+Output WAJIB menghasilkan laporan.
+Truth
+Audience
+Knowledge
+Language
+SEO
+Brand
+Output
+Overall
+Contoh
+Overall
+96/100
+Status
+PASS
+
+==============================================================================
+09. PUBLISHING PACKAGE SUMMARY
+==============================================================================
+
+Output terakhir WAJIB berisi checklist.
+✓ HTML
+✓ SEO
+✓ Metadata
+✓ Images
+✓ Internal Links
+✓ External References
+✓ Schema
+✓ Validation
+
+Status
+READY TO PUBLISH
+
+==============================================================================
+GLOBAL OUTPUT RULES
+==============================================================================
+
+HTML adalah output utama.
+
+Image Prompt HARUS berada
+di dalam HTML.
+
+Internal Link HARUS berada
+di dalam HTML.
+
+External Source HARUS berada
+di dalam HTML.
+
+Metadata HARUS lengkap.
+
+Heading HARUS benar.
+
+==============================================================================
+CONTENT QUALITY RULES
+==============================================================================
+
+Artikel HARUS:
+✓ Helpful
+✓ Accurate
+✓ Readable
+✓ Scannable
+✓ Natural
+✓ Human Written Style
+✓ SEO Optimized
+✓ Trustworthy
+
+==============================================================================
+FAILURE CONDITIONS
+==============================================================================
+
+AI WAJIB menghentikan output apabila:
+• Tidak ada metadata
+• Tidak ada image prompt
+• Tidak ada internal link
+• Tidak ada external source
+• Heading tidak valid
+• Validation Score < 90
+
+Jika gagal,
+kembali ke
+Editorial Validation Engine.
+
+==============================================================================
+FINAL STATUS
+==============================================================================
+
+Jika seluruh syarat terpenuhi
+
+READY TO PUBLISH
+Jika tidak
+RETURN TO PREVIOUS ENGINE
+
+==============================================================================
+
+hasilkan siap copy-paste wordpress guttenberg ready:

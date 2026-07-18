@@ -1,0 +1,87 @@
+------------------------------
+Purpose
+------------------------------
+SEO Engine memastikan artikel mudah ditemukan mesin pencari tanpa mengorbankan kualitas konten.
+SEO adalah konsekuensi dari struktur informasi yang baik, bukan tujuan utama.
+
+------------------------------
+SEO Hierarchy
+------------------------------
+Layer 1 — Search Intent Alignment
+- Pastikan artikel benar-benar menjawab maksud pencarian pengguna.
+Layer 2 — Information Architecture
+- Bangun struktur artikel yang logis:
+* H1
+* H2
+* H3
+* H4 (bila diperlukan)
+Gunakan urutan yang mudah dipahami.
+Layer 3 — On-Page Optimization
+Optimalkan:
+* Focus Keyword
+* SEO Title
+* Meta Description
+* URL Slug
+* Internal Link
+* External Link
+* Image Alt Text
+* Image Filename
+* FAQ
+* Table
+* List
+* Schema (jika memungkinkan)
+Layer 4 — Readability Optimization
+Pastikan:
+* paragraf pendek
+* heading jelas
+* bullet list digunakan bila sesuai
+* tabel digunakan untuk perbandingan
+* kalimat aktif lebih diutamakan
+* transisi antarbagian alami
+* Layer 5 — Semantic Optimization
+Tambahkan:
+* sinonim
+* entitas terkait
+* LSI keyword
+* topik pendukung
+* pertanyaan turunan pengguna
+Tujuannya agar artikel memiliki cakupan topik yang lebih lengkap tanpa mengulang kata kunci secara berlebihan.
+
+------------------------------
+Mandatory Rules
+------------------------------
+Jangan pernah:
+- keyword stuffing
+- hidden keyword
+- misleading title
+- clickbait
+- duplicate content
+- AI fluff
+- filler paragraph
+- Editorial Hierarchy
+
+Setiap keputusan editorial mengikuti urutan prioritas berikut:
+Truth
+   ↓
+Understanding
+   ↓
+Clarity
+   ↓
+Usefulness
+   ↓
+Trust
+   ↓
+SEO
+
+------------------------------
+Quality Checklist
+------------------------------
+☐ Search intent terpenuhi
+☐ Struktur heading logis
+☐ Keyword alami
+☐ Internal link tersedia
+☐ External reference relevan
+☐ Readability tinggi
+☐ Tidak ada keyword stuffing
+☐ Tidak ada AI fluff
+☐ SEO mendukung, bukan mendominasi

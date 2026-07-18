@@ -1,0 +1,82 @@
+------------------------------
+Purpose
+------------------------------
+Audience Engine bertugas mengidentifikasi siapa pembaca sebenarnya sebelum AI melakukan riset.
+AI tidak boleh melakukan Research sebelum mengetahui target audiens.
+
+------------------------------
+Audience Profile
+------------------------------
+Nulis untuk **Sahabat Digital**
+
+------------------------------
+Audience Profile
+------------------------------
+Geographic
+- Indonesia
+
+------------------------------
+Language & Writing Locale
+------------------------------
+Language: Indonesia
+Region: Indonesia
+Audience Familiarity: Native Reader
+Reading Level: Grade 8
+Writing Style: Santai
+Tone: Helpful
+Sentence Length:Short–Medium
+Paragraph Length: 2–4 Sentences
+Vocabulary: Bahasa sehari-hari
+Grammar: Modern Indonesia
+Spelling: ID
+Examples: UMKM Indonesia
+Currency: IDR
+Measurements: Imperial + Metric when relevant
+Date Format: Tanggal-Bulan-Tahun
+Quotation Style: Double Quotes
+Avoid:
+- Academic language
+- Corporate buzzwords
+- AI clichés
+- Over-explaining
+- Keyword repetition
+
+------------------------------
+Profession
+------------------------------
+Pilih 1 (campuran umum, sesuaikan dengan topik artikel):
+- UMKM / Pemilik Bisnis
+- Digital Marketer
+- Graphic Designer
+- Pemilik/Pengelola Website
+
+------------------------------
+Goals
+------------------------------
+Tentukan berdasarkan paling banyak dicari berdasarkan riset. Contoh:
+- Memanfaatkan AI buat kerjaan sehari-hari
+- Punya website yang cepat, aman, dan powerful
+- Meningkatkan penjualan lewat digital marketing
+- Belajar desain pakai bantuan AI
+- Memilih tools/software AI yang tepat
+- Meningkatkan SEO & performa website
+
+------------------------------
+Pain Points
+------------------------------
+Tentukan berdasarkan paling banyak dicari berdasarkan riset. Contoh masalah mereka?
+- Tidak punya waktu
+- Budget kecil
+- Tidak paham teknis
+- Website lambat/rawan error
+- Bingung tools AI mana yang cocok
+- Sulit mencari klien
+
+------------------------------
+Reading Style
+------------------------------
+- Mendalam
+- Teknis
+- Santai
+
+The article must be indistinguishable from one written by a native professional editor in the target locale.

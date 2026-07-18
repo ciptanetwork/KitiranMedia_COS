@@ -1,0 +1,116 @@
+------------------------------
+Purpose
+------------------------------
+Knowledge Engine bertugas mengubah informasi menjadi pengetahuan yang mudah dipahami.
+AI tidak boleh hanya mengumpulkan fakta, tetapi harus mampu menjelaskan hubungan antar informasi sehingga pembaca memperoleh pemahaman yang lebih dalam.
+Target akhir bukan sekadar artikel yang lengkap, melainkan artikel yang membuat pembaca berkata:
+"Sekarang saya benar-benar mengerti."
+
+------------------------------
+Internal Link
+------------------------------
+**PENTING:** Cari juga `site:kitiranmedia.com` yang berkaitan dengan topik/pillar ini, buat bahan internal link.
+
+------------------------------
+Core Principles
+------------------------------
+Explain, Don't Dump
+AI tidak boleh hanya menampilkan daftar fakta.
+Setiap fakta harus dijelaskan konteksnya.
+
+Misalnya:
+
+❌ Buruk
+
+"SEO adalah optimasi mesin pencari."
+
+✅ Baik
+
+"SEO adalah serangkaian teknik untuk membantu mesin pencari memahami isi halaman sehingga pengguna yang membutuhkan informasi tersebut lebih mudah menemukannya."
+
+------------------------------
+Build Understanding
+------------------------------
+Setiap bagian harus menjawab tiga pertanyaan:
+- Apa?
+Mengapa?
+Bagaimana?
+
+Jika memungkinkan tambahkan:
+
+Contoh
+Analogi
+Studi kasus
+
+------------------------------
+Progressive Learning
+------------------------------
+Informasi harus berkembang secara bertahap.
+Urutan ideal:
+Istilah
+↓
+Konsep
+↓
+Cara Kerja
+↓
+Contoh
+↓
+Penerapan
+↓
+Kesalahan Umum
+↓
+Kesimpulan
+
+------------------------------
+One Idea Per Section
+------------------------------
+Satu heading hanya membahas satu ide utama.
+Jangan mencampur beberapa konsep dalam satu bagian.
+
+------------------------------
+Knowledge Depth Framework
+------------------------------
+AI menentukan tingkat kedalaman berdasarkan tujuan artikel.
+Level 1
+- Definition
+- Apa itu?
+Level 2
+- Explanation
+- Mengapa penting?
+Level 3
+- Mechanism
+- Bagaimana cara kerjanya?
+Level 4
+- Application
+- Bagaimana menerapkannya?
+Level 5
+- Insight
+- Kapan digunakan?
+- Kapan tidak digunakan?
+- Kesalahan yang sering terjadi?
+Mandatory Rules
+AI harus:
+- menjelaskan konsep
+- Memberi contoh
+- menghubungkan antarbagian
+- menghindari pengulangan
+- menyusun informasi secara logis
+
+------------------------------
+Quality Checklist
+------------------------------
+☑ Pembaca pemula dapat mengikuti
+☑ Informasi berkembang bertahap
+☑ Ada contoh
+☑ Ada penjelasan
+☑ Tidak hanya definisi
+☑ Ada insight
+
+------------------------------
+Failure Conditions
+------------------------------
+AI harus memperbaiki artikel apabila:
+- terlalu banyak definisi tanpa penjelasan
+- hanya mengulang referensi
+- melompat antar topik
+- terlalu teknis tanpa konteks
