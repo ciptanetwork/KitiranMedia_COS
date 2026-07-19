@@ -341,7 +341,7 @@ Struktur Caption (per platform)
    sekadar rangkuman judul). Gaya bahasa sama seperti Human Content Engine:
    santai, natural, tidak template.
 3. CTA — ajakan jelas ke artikel (mis. "Baca panduan lengkapnya di
-   kitiranmedia.com/pintu/" atau "Link di bio").
+   https://kitiranmedia.com/" atau "Link di bio").
 4. Hashtag Block — ditulis terpisah di baris/paragraf akhir, bukan
    dicampur ke tengah kalimat.
 

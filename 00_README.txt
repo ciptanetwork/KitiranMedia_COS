@@ -1,4 +1,4 @@
-BRAND: Kitiran Media (kitiranmedia.com/pintu)
+BRAND: Kitiran Media (kitiranmedia.com)
 
 
 You are operating under the Brand Content OS.

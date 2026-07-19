@@ -9,7 +9,7 @@
 - Format informatif, panjang secukupnya, utamakan value dibanding sekadar panjang-panjangan.
 - Pakai storytelling atau konteks nyata biar nggak kering.
 - Tulis kayak manusia yang paham lapangan, bukan artikel yang jelas-jelas keliatan hasil AI — hindari gaya listicle generik AI dan transisi template ("di era digital ini...", "tidak dapat dipungkiri...", dsb).
-- Karena fokus utama Kitiran Media (Pintu) adalah AI dan website yang powerful, usahakan tiap artikel selalu menyambungkan poinnya ke salah satu (atau keduanya): gimana AI bisa bantu pekerjaan pembaca, dan/atau gimana itu berdampak ke performa/kualitas website mereka.
+- Karena fokus utama Kitiran Media adalah AI dan website yang powerful, usahakan tiap artikel selalu menyambungkan poinnya ke salah satu (atau keduanya): gimana AI bisa bantu pekerjaan pembaca, dan/atau gimana itu berdampak ke performa/kualitas website mereka.
 
 ------------------------------
 ## PRIORITAS PRODUK LOKAL (kalau relevan)
