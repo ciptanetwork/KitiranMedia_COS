@@ -83,15 +83,12 @@ Pada bagian paling atas HTML WAJIB terdapat metadata ringkas.
 
 Contoh
 <!--
-KM-ARTICLE
+KitiranMedia-ARTICLE
 Version : 1.0
 Audience : Sahabat Digital (Indonesia)
 Language : Bahasa Indonesia
 Intent : Informational
 Category : AI Terapan
-Word Count : 1800
-Status : Ready
-KM-ARTICLE-END
 -->
 
 Workflow automation menggunakan blok ini
@@ -149,28 +146,10 @@ Mapping Aspect Ratio → ukuran placeholder:
 9:16  → 675x1200
 
 Format WAJIB:
-<!--
-KM-IMAGE
-Position :
-After H2-2
-Filename :
-website-powerful-dashboard.webp
-Alt :
-Dashboard performa website yang powerful
-Caption :
-Contoh dashboard untuk memantau performa website.
-Aspect Ratio :
-16:9
-Style :
-Modern Flat Illustration
-Prompt :
-[Full AI Image Prompt]
-KM-IMAGE-END
--->
 <figure>
 <img
 src="https://placehold.co/1200x675/EEEEEE/31343C?text=Dashboard+Performa+Website&font=roboto"
-alt="Dashboard performa website yang powerful"
+alt="Dashboard performa website yang powerful - caption: [Full Caption] - [Full AI Image Prompt]"
 loading="lazy"
 width="1200"
 height="675"

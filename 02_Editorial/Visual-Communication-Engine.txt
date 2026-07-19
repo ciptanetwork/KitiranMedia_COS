@@ -54,7 +54,7 @@ Untuk setiap gambar yang direkomendasikan, AI dapat menghasilkan:
 - posisi dalam artikel
 - alt text SEO
 - caption
-- prompt AI image generator (A black-and-white pen drawing doodle, loose and hand-sketched, loose sketchy linework, one or two accent colors only of ...)
+- prompt AI image generator (A black-and-white pen drawing doodle, loose and hand-sketched, loose sketchy linework, one or two accent colors only. No text title, jika ada tulisan, pastikan menggunakan bahasa Indonesia. of ...)
 
 Setiap gambar yang direkomendasikan WAJIB langsung ditampilkan sebagai
 placeholder visual di posisi yang benar dalam artikel (bukan src kosong),
