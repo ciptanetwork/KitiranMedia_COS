@@ -149,12 +149,12 @@ Format WAJIB:
 <figure>
 <img
 src="https://placehold.co/1200x675/EEEEEE/31343C?text=Dashboard+Performa+Website&font=roboto"
-alt="Dashboard performa website yang powerful - caption: [Full Caption] - [Full AI Image Prompt]"
+alt="Dashboard performa website yang powerful"
 loading="lazy"
 width="1200"
 height="675"
 >
-<figcaption>Contoh dashboard untuk memantau performa website.</figcaption>
+<figcaption>Contoh dashboard untuk memantau performa website.  - caption: [Full Caption] - [Full AI Image Prompt]</figcaption>
 </figure>
 
 Catatan:
