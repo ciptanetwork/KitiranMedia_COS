@@ -193,7 +193,7 @@ Minimal
 setiap
 700–1000 kata.
 Anchor text harus natural.
-Prioritaskan link ke artikel lain di kitiranmedia.com (khususnya pillar /pintu/).
+Prioritaskan link ke artikel lain di kitiranmedia.com (khususnya pillar).
 
 Dilarang menggunakan:
 Klik di sini
@@ -202,7 +202,7 @@ Learn more
 Gunakan anchor deskriptif.
 
 Contoh
-<a href="https://kitiranmedia.com/pintu/cara-mempercepat-website-wordpress/">
+<a href="https://kitiranmedia.com/cara-mempercepat-website-wordpress/">
 cara mempercepat website WordPress
 </a>
 
@@ -214,7 +214,7 @@ External source HARUS langsung
 ditanam di dalam HTML.
 
 Minimal
-1 sumber
+3 sumber
 setiap
 1000 kata.
 
@@ -265,9 +265,8 @@ Category :
 Tags :
 Slug :
 Featured Image Alt :
-Author :
-Status : Draft/Ready to Publish
-KM-WORDPRESS-ATTRIBUTES-END
+Featured Image Prompt:
+Author : KitiranMedia
 -->
 
 Isi wajib:
@@ -279,6 +278,7 @@ Isi wajib:
 • Tags — 3–8 tag relevan, huruf kecil, tanpa tanda pagar.
 • Slug — huruf kecil, pisah pakai tanda hubung, tanpa stopword.
 • Featured Image Alt — alt text untuk gambar utama/thumbnail artikel.
+• Featured Image Prompt — prompt untuk gambar utama/thumbnail artikel.
 • Author — isi default "Tim Kitiran Media" kecuali brief bilang lain.
 • Status — tentukan berdasarkan hasil Editorial Validation Report.
 
@@ -306,7 +306,8 @@ KM-SEO-YOAST-END
 -->
 
 Panduan pengisian (ikuti standar rekomendasi Yoast):
-• Focus Keyphrase — 1 keyphrase utama, natural, sesuai search intent.
+• Focus Keyphrase — di awal paragraf, natural, sesuai search intent.
+• Focus Keyphrase — 7 keyphrase utama, natural, sesuai search intent.
 • SEO Title — idealnya ≤ 60 karakter, mengandung Focus Keyphrase di
   awal kalau memungkinkan.
 • Slug — sependek mungkin, idealnya mengandung Focus Keyphrase saja
